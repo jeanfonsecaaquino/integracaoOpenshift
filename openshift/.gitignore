@@ -2,6 +2,7 @@
 .project/*
 .settings/*
 .classpath/*
+.classpath/
 .project
 target/
 RemoteSystemsTempFiles/*
