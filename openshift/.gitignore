@@ -1,6 +1,7 @@
 .metadata/*
 .project/*
 .settings/*
+.classpath/*
 .project
 target/
 RemoteSystemsTempFiles/*
