@@ -1,0 +1,2 @@
+# integracaoOpenshift
+teste de integração
